@@ -4,40 +4,40 @@ I am a self-taught developer dedicating his time daily to learning and exploring
 
 ## My Tech Stack
 
-<table width="80%" style='border:none'>
+<table width="25%" style='border:none'>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="left">
+      <td width="25%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-      <td width="25%" align="left">
+      <td width="25%" align="center">
         <span>𝗖𝗦𝗦𝟯</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="25%" align="left">
+      <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="25%" align="left">
+      <td width="25%" align="center">
         <span><b>React</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
     </tr>
     <tr valign="top">
-        <td width="25%" align="left">
+        <td width="25%" align="center">
             <span><b>Node.js</b></span><br><br><br>
             <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
         </td>
-        <td width="25%" align="left">
+        <td width="25%" align="center">
             <span>𝗚𝗶𝘁</span><br><br><br>
             <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
         </td>
-        <td width="25%" align="left">
+        <td width="25%" align="center">
             <span><b>Npm</b></span><br><br><br>
             <img height="64px" src="https://cdn.svgporn.com/logos/npm.svg">
         </td>
-        <td width="25%" align="left">
+        <td width="25%" align="center">
             <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
             <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
         </td>
