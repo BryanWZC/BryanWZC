@@ -56,11 +56,11 @@ I am a self-taught developer dedicating his time daily to learning and exploring
 
 <div align='middle'>
   <a href="https://www.linkedin.com/in/bryan-wong-716054a9/">
-    <img align='left' alt='Bryan Wong | Linkedin' src="https://img.icons8.com/color/24/000000/gmail.png"/>
-  </a> 
-  <a href="mailto:bryanwongzhicheng@gmail.com">
     <img align='left' alt='Bryan Wong | Gmail' src="https://img.icons8.com/color/24/000000/linkedin.png"/>
   </a>
+  <a href="mailto:bryanwongzhicheng@gmail.com">
+    <img align='left' alt='Bryan Wong | Linkedin' src="https://img.icons8.com/color/24/000000/gmail.png"/>
+  </a> 
 </div>
 
-<br><br><br><br>
+<br><br>
