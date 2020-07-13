@@ -46,13 +46,15 @@ I am a self-taught developer dedicating his time daily to learning and exploring
 </table>
 
 ## Currently learning :pencil: :calendar:
-
-:blue_book: You Don't Know JS (By Kyle Simpson) --> Types & Grammar
-:closed_book: Cracking the Coding Interview (By Gayle Laakmann Mcdowell)
-:computer: Frontend Masters --> Delving more into JS
+<ul style='list-style: none; padding-left: 0;'>
+  <li>:blue_book: You Don't Know JS (By Kyle Simpson) --> Types & Grammar</li>
+  <li>:closed_book: Cracking the Coding Interview (By Gayle Laakmann Mcdowell)</li>
+  <li>:computer: Frontend Masters --> Delving more into JS</li>
+</ul>
 
 <br>
-<div align='middle'>
+
+<div style='text-align: center'>
   <a href="https://www.linkedin.com/in/bryan-wong-716054a9/">
     <img align='left' alt='Bryan Wong | Linkedin' src="https://img.icons8.com/color/24/000000/gmail.png"/>
   </a> 
