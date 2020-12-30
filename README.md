@@ -79,28 +79,8 @@ I am a Full Stack Developer by training and I have a passion for improving the l
 
 <br>
 
-## Currently Learning :pencil: :calendar:
-  **:blue_book: Frontend Masters:**
-  -  TypeScript 3 Fundamentals, v2
-
-<br>
-
-## Completed :raised_hands:
-  **:blue_book: Frontend Masters:**
-  - Complete Intro to Web Development, v2
-  - Getting Started with JavaScript, v2
-  - CSS Grids and Flexbox for Responsive Web Design
-  - JavaScript: From Fundamentals to Functional JS, v2
-  - Introduction to Node.js
-  - The Hard Parts of Servers & Node.js
-  - Digging Into Node.js
-
-  **:closed_book: You Don't Know JS (By Kyle Simpson)**
-  - Up & Going
-  - Scope & Closures
-  - Types & Grammar
-
-  **:mortar_board: Certifications**
+## **:mortar_board: Certifications**
+- [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/11032191-e95c-4e48-ac06-9ad6c8f58092)
 - [FCC: Responsive Web Design](https://www.freecodecamp.org/certification/wongb/responsive-web-design)
 - [FCC: JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/wongb/javascript-algorithms-and-data-structures)
 - [FCC: Front End libraries](https://www.freecodecamp.org/certification/wongb/front-end-libraries)
