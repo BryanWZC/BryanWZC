@@ -87,5 +87,6 @@ I am a Full Stack Developer by training and I have a passion for improving the l
 - [FCC: Data Visualization](https://www.freecodecamp.org/certification/wongb/data-visualization)
 - [FCC: APIs and Microservices](https://www.freecodecamp.org/certification/wongb/apis-and-microservices)
 - [FCC: Quality Assurance](https://www.freecodecamp.org/certification/wongb/quality-assurance-v7)
+- [FCC: Scientific Computing with Python](https://www.freecodecamp.org/certification/wongb/scientific-computing-with-python-v7)
 
 <br><br>
