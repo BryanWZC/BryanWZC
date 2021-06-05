@@ -1,6 +1,6 @@
 # Hi there! I'm Bryan :wave:
 
-I am a Full Stack Developer by training and I have a passion for improving the lives of others through technological applications. I work with HTML, CSS, JavaScript, Python and SQL.
+I am a Full Stack Developer by training and I have a passion for improving the lives of others through technological applications. I am currently working as a Salesforce Developer, building scalable applications on the front and backend.
 
 ## My Tech Stack
 
@@ -28,12 +28,12 @@ I am a Full Stack Developer by training and I have a passion for improving the l
           <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       </td>
       <td width="12%" align="center">
-          <span><b>React</b></span><br><br><br>
-          <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+          <span><b>Java</b></span><br><br><br>
+          <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
       <td width="12%" align="center">
-          <span><b>Redux</b></span><br><br><br>
-          <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+          <span><b>React</b></span><br><br><br>
+          <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="12%" align="center">
           <span><b>Express</b></span><br><br><br>
