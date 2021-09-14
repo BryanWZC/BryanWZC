@@ -80,6 +80,7 @@ I am a Full Stack Developer by training and I have a passion for improving the l
 <br>
 
 ## **:mortar_board: Certifications**
+- [Salesforce Certified Platform Developer I](https://trailhead.salesforce.com/credentials/certification-detail-print?searchString=WTQmDMuFYZE4wQwHIPGQt92X2bjAYVm0vXLra+2mgKQW1z5HNvwlDWXxreZI0+RU)
 - [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/11032191-e95c-4e48-ac06-9ad6c8f58092)
 - [FCC: Responsive Web Design](https://www.freecodecamp.org/certification/wongb/responsive-web-design)
 - [FCC: JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/wongb/javascript-algorithms-and-data-structures)
